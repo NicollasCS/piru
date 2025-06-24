@@ -1,10 +1,10 @@
       .button {
-            display: inline-block; /* Makes the link behave like a block element but allows other elements on the same line */
+            display: inline-block; 
             padding: 10px 20px;
-            background-color: #4CAF50; /* Example background color */
+            background-color: #4CAF50; 
             color: white;
             text-align: center;
-            text-decoration: none; /* Removes underline from the link */
+            text-decoration: none;
             border-radius: 5px;
             cursor: pointer;
             font-size: 16px;
@@ -12,8 +12,8 @@
         }
 
         .button:hover {
-            background-color: #45a049; /* Darker green on hover */
+            background-color: #45a049;
         }
         .button:active {
-            background-color: #3e8e41; /* Even darker green when clicked */
+            background-color: #3e8e41;
         }
